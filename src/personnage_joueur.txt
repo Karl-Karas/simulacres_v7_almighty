@@ -1,0 +1,88 @@
+
+Le personnage joueur
+====================
+
+Description et Création
+-----------------------
+
+La première chose que doit faire un joueur avant de commencer une partie de jeu
+de rôle, c’est de choisir le personnage qu’il va incarner. S’il est débutant,
+indécis ou pressé, nous lui conseillons de choisir un personnage prétiré,
+c’est-à-dire un personnage tout fait. Il y en a six de prévus, que vous
+trouverez en page 71, dont vous pouvez vous inspirer et qu’il est possible de
+photocopier ou même de découper.
+
+Un paradoxe de la création de personnage dans le jeu de rôle est qu’il faut
+souvent un peu savoir comment «fonctionnent » les règles pour savoir si son
+personnage correspond bien à ce que l’on veut, mais que l’on ne peut bien
+saisir le mécanisme des règles qu’après avoir créé un personnage. C’est un peu
+le problème de l’œuf et de la poule. Mais ne paniquez pas, tout cela n’est pas
+si compliqué.
+
+Le plus simple, c’est de lire la description des caractéristiques d’un
+personnage avec une feuille vierge (page 9) devant soi, ou avec un des prétirés
+(page 71).  Vous pourrez créer un personnage au fur et à mesure, puis passer
+aux mécanismes du jeu (page 10 et suivantes) pour savoir comment va «
+fonctionner » votre personnage.
+
+Les Caractéristiques
+--------------------
+
+Elles sont divisées en plusieurs catégories. Voici, pour chacune, comment
+remplir la feuille de personnage, lorsque vous en créez un.
+
+.. raw:: pdf
+
+    PageBreak twoColumn
+
+Composantes
+^^^^^^^^^^^
+
+Ce sont les matériaux qui composent les individus, la base même de ce qu’ils
+sont. Un personnage est composé (symboliquement) du Corps, des Instincts, du
+Cœur et de l’Esprit.
+
+.. image:: images/corps.png
+    :height: 6.6ex
+    :align: left
+
+**Le Corps** sert à résoudre toutes les situations physiques (courir, regarder,
+lutter, danser, écouter, etc.). Il recouvre diverses capacités physiques comme
+la force, l’agilité, l’endurance.
+
+.. image:: images/instinct.png
+    :height: 6.6ex
+    :align: left
+
+**Les Instincts** regroupent toutes les forces et les faiblesses cachées et
+inconscientes de l’individu.  C’est par eux que s’expriment le sixième sens,
+l’intuition, le côté animal du personnage ; mais aussi le fait de se laisser
+dominer par ses pulsions. Une personne instinctive pourra sentir des présences,
+se rattraper de justesse lors d’une chute, etc.
+
+.. image:: images/coeur.png
+    :height: 6.6ex
+    :align: left
+
+**Le Cœur** est le domaine des sentiments (aimer, se faire aimer, « comprendre
+», ressentir, influencer, convaincre par les sentiments, etc.). Quelqu’un qui a
+une forte valeur en Cœur peut non seulement mieux convaincre, mais aussi mieux
+résister aux influences extérieures, alors qu’un personnage avec une faible
+valeur sera plus velléitaire (incapable de s’en tenir à une décision prise).
+
+.. image:: images/esprit.png
+    :height: 6.6ex
+    :align: left
+
+**L’Esprit** gouverne la réflexion (calculer, analyser, raisonner, prévoir,
+persuader par la raison, etc.) mais aussi l’invention, l’imagination.
+
+.. sidebar:: *Création du personnage*
+
+   Les valeurs des Composantes varient de 3 (faible) à 6 (fort), 4 et 5 étant
+   des valeurs moyennes. Répartissez un total de 18 points entre vos quatre
+   Composantes.  Exemple : Corps |corps| 5, Instincts |instinct| 6, Cœur
+   |coeur| 4, Esprit |esprit| 3 ; un tel personnage est très instinctif,
+   privilégiant ce qui est physique, moyennement amical et pas du tout
+   réfléchi. Une vraie tête brûlée.
+
