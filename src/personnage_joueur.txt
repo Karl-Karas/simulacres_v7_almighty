@@ -86,3 +86,64 @@ persuader par la raison, etc.) mais aussi l’invention, l’imagination.
    privilégiant ce qui est physique, moyennement amical et pas du tout
    réfléchi. Une vraie tête brûlée.
 
+Moyens
+^^^^^^
+
+Les Composantes ne sont que des potentialités qui ne sont pas toujours bien
+exploitées ou exprimées. Il ne sert à rien d’avoir de beaux muscles si on ne
+les utilise pas, d’avoir un grand cœur si on n’aime personne. L’expression
+d’une Composante se fait toujours à travers un Moyen.  Ainsi Esprit |esprit| et
+Perception |perception| servent à appréhender un problème intellectuel, alors
+que Corps |corps| et Action |action| servent à donner un coup de poing ou faire
+un saut en longueur. Le tableau ci-contre résume ces diverses combinaisons. Les
+Moyens sont au nombre de quatre |s| :
+
+.. image:: images/perception.png
+    :height: 6.6ex
+    :align: left
+
+**La Perception.** Elle sert chaque fois que l’on veut connaître quelque chose.
+On l’utilise aussi dans tous les cas où il est plus important de réagir
+qu’agir.  Ainsi, pour éviter une voiture qui grille un feu rouge, c’est la
+Perception que l’on utilisera, pour déterminer si on a vu la voiture à temps.
+De même, le fait de viser, même pour utiliser un fusil, se fera avec la
+Perception.
+
+.. image:: images/action.png
+    :height: 6.6ex
+    :align: left
+
+**L’Action.** Ce Moyen sert lorsque l’on doit avoir une action effective. C’est
+le plus évident à comprendre, et aussi l’un des plus utilisés des Moyens.
+L’Action servira pour un bras de fer comme pour résoudre une énigme.
+
+.. image:: images/desir.png
+    :height: 6.6ex
+    :align: left
+
+**Le Désir.** Ce Moyen représente toutes les sortes de volontés, qu’elles
+soient conscientes ou inconscientes. C’est sans doute le Moyen le plus
+difficile à appréhender, mais aussi celui qui a le plus de possibilités. On
+peut ainsi « désirer » survivre, inventer des engins ou des poésies
+extraordinaires; bref, arriver à se dépasser.
+
+.. image:: images/resistance.png
+    :height: 6.6ex
+    :align: left
+
+**La Résistance.** C’est un Moyen passif, qui sert à tester si on résiste à une
+agression physique, morale ou sentimentale, ou si on se laisse guider par ses
+instincts.
+
+.. sidebar:: *Création du personnage*
+
+   Les valeurs des Moyens varient de 0 (très faible) à 4 (fort) ; 2 étant une
+   valeur moyenne. Attribuez un total de 10 points pour l’ensemble de vos
+   Moyens. Il est possible, mais déconseillé, de mettre un score de 0 dans un
+   des Moyens. 
+
+   Exemple : Perception |perception| 2, Action |action| 3, Désir |desir| 3,
+   Résistance |resistance| 2; ce qui indique un personnage assez moyen, plutôt
+   actif, pas très perspicace, qui ne sait pas trop encaisser les coups durs,
+   mais qui sait y réagir efficacement.
+

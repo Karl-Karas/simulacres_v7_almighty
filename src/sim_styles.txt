@@ -97,13 +97,20 @@
                 "fontSize": 80%
         }],
         ["heading1" , {
+              "fontSize": 30,
               "fontName" : "stdTitle"
         }],
         ["heading2" , {
+              "fontSize": 22,
               "fontName" : "stdTitle"
         }],
         ["heading3" , {
+              "fontSize": 18,
               "fontName" : "stdTitleItalic"
+        }],
+        ["heading4" , {
+              "fontSize": 14,
+              "fontName" : "stdBold"
         }],
         ["left", {
             "alignment":"left"
