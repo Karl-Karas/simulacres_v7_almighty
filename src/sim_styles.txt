@@ -1,0 +1,296 @@
+{
+    "pageSetup" : {
+        "size": "A4",
+        "width": null,
+        "height": null,
+        "margin-top": "2cm",
+        "margin-bottom": "2cm",
+        "margin-left": "1.5cm",
+        "margin-right": "2cm",
+        "spacing-header": "5mm",
+        "spacing-footer": "5mm",
+        "margin-gutter": "0cm",
+        "firstTemplate": "twoColumnWithHeader"
+    },
+    "pageTemplates" : {
+        "twoColumn": {
+            "frames": [
+                ["0cm", "0cm", "49%", "100%"],
+                ["51%", "0cm", "49%", "100%"]
+            ]
+        },
+        "twoColumnWithHeader": {
+            "frames": [
+                ["0cm", "67%", "100%", "33%"],
+                ["0cm", "0cm", "49%", "70%"],
+                ["51%", "0cm", "49%", "70%"]
+            ],
+            "showHeader" : false
+        },
+        "coverPage": {
+            "frames": [
+                [0cm, 0cm, 100%, 100%]
+            ],
+            "showHeader" : false,
+            "showFooter" : false
+        },
+        "emptyPage": {
+            "frames": [
+                [0cm, 0cm, 100%, 100%]
+            ],
+            "showHeader" : false,
+            "showFooter" : false
+	    },	
+        "oneColumn": {
+            "frames": [
+                [0cm, 0cm, 100%, 100%]
+            ],
+            "showHeader" : true,
+            "showFooter" : true
+        },
+        "threeColumn": {
+            "frames": [
+                [2%, 0cm, 29.333%, 100%],
+                [35.333%, 0cm, 29.333%, 100%],
+                [68.666%, 0cm, 29.333%, 100%]
+            ],
+            "showHeader" : true,
+            "showFooter" : true
+        },
+        "cutePage": {
+            "frames": [
+                [0%, 0%, 100%, 100%]
+            ],
+            "showHeader" : true,
+            "showFooter" : true,
+            "defaultFooter" : "###Page###",
+            "defaultHeader" : "###Section###"
+        }
+    },
+    "fontsAlias": {
+        stdFont: Linux Libertine,
+        stdBold: Linux Libertine-Bold,
+        stdItalic: Linux Libertine-Oblique,
+        stdBoldItalic: Linux Libertine-BoldOblique,
+        stdSans: Linux Biolinum,
+        stdSansBold: Linux Biolinum-Bold,
+        stdSansItalic: Linux Biolinum-Oblique,
+        stdSansBoldItalic: Linux Biolinum-BoldOblique,
+        stdMono: Courier-Bold,
+        stdMonoItalic: Courier-Oblique,
+        stdMonoBold: Courier-Bold,
+        stdMonoBoldItalic: Courier-BoldOblique,
+        stdSerif: Linux Libertine,
+        stdTimes: Times-Roman,
+        stdTitle: Linux Biolinum-Bold,
+        stdTitleItalic: Linux Biolinum-BoldOblique,
+        SimulacreS: Simulacres-Bats,
+        Runic: Noto Sans Runic-Regular,
+        Augusta: Augusta,
+        AugustaB: Augusta-Bold
+    },
+    "styles": [
+        ["normal" , {
+                "fontSize": 10
+        }],
+        ["small" , {
+                "fontSize": 80%
+        }],
+        ["heading1" , {
+              "fontName" : "stdTitle"
+        }],
+        ["heading2" , {
+              "fontName" : "stdTitle"
+        }],
+        ["heading3" , {
+              "fontName" : "stdTitleItalic"
+        }],
+        ["left", {
+            "alignment":"left"
+        }],
+        ["right", {
+            "alignment":"right"
+        }],
+        ["center", {
+            "alignment":"center"
+        }],
+        ["findent", {
+            "firstLineIndent": 10,
+            "alignment":"TA_JUSTIFY"
+        }],
+        ["image", {
+            "borderWidth": 2mm,
+            "borderPadding": 2mm,
+            "borderColor": black,
+            "spaceBefore": 20,
+            "spaceAfter": 20
+        }],
+        ["inline", {
+            "parent": "image",
+            "leading": 0,
+            "leftIndent":0,
+            "rightIndent":0,
+            "firstLineIndent": 0,
+            "alignment":"left",
+            "spaceBefore": 0,
+            "spaceAfter": 0,
+            "borderWidth": 2mm,
+            "borderPadding": 2mm,
+            "borderColor": black,
+            "bulletIndent":0
+        }],
+        ["ccfooter", {
+              "parent": "table",
+              "fontSize": 60%,
+              "spaceBefore": 0,
+              "spaceAfter": "0",
+              "alignment": "TA_LEFT",
+            "leftIndent": 0,
+            "rightIndent": 0,
+            "hyphenation": false,
+            "underline": false,
+            "colWidths": ["12%", "88%"],
+            "commands": [
+                [BOTTOMPADDING, [0, 0], [-1, -1], -18],
+                [ROWBACKGROUNDS, [0, 0], [-1, -1], [white]]
+            ]
+        }],
+        ["simfooter", {
+              "parent": "table",
+              "fontSize": 80%,
+              "spaceBefore": 0,
+              "spaceAfter": 0,
+              "alignment": "TA_LEFT",
+            "leftIndent": 0,
+            "rightIndent": 0,
+            "hyphenation": false,
+            "underline": false,
+            "colWidths": ["12%", "88%"],
+            "commands": [
+                [LINEBELOW, [1, 0], [-1, 0], 0.5, black],
+                [BOTTOMPADDING, [0, 0], [0, 0], -15],
+                [TOPPADDING, [0, 0], [-1, 0], -20]
+            ]
+        }],
+        ["table", {
+            "spaceBefore": 6,
+            "spaceAfter": 0,
+            "alignment": "TA_CENTER",
+            "commands": [
+                [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ],
+                [ROWBACKGROUNDS, [0, 0], [-1, -1], [#EBEBEB,white]]
+            ]
+        }],
+        ["table-title", {
+            "parent": "heading3",
+            "keepWithNext": "false",
+              "spaceBefore": 2,
+              "spaceAfter": 1,
+            "alignment": "TA_LEFT"
+        }],
+        ["table-heading", {
+            "parent": "heading",
+            "backColor": "#707070",
+            "textColor": "white",
+            "alignment": "TA_LEFT",
+            "valign": "BOTTOM",
+            "borderPadding": 0
+        }],
+        ["table-body", {
+            "parent": "normal"
+        }],
+        ["sidebar", {
+            "parent": "normal",
+            "float": "none",
+            "width": 100%,
+            "spaceBefore": 12,
+            "spaceAfter": 6,
+            "backColor": "#EBEBEB",
+            "borderColor": "darkgray",
+            "borderWidth": 0.5,
+            "borderPadding": 5,
+            "commands": [
+                [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
+            ]
+        }],
+        ["encart", {
+            "parent": "normal",
+            "spaceBefore": 12,
+            "spaceAfter": 6,
+            "backColor": "beige",
+            "borderColor": "darkgray",
+            "borderWidth": 0.5,
+            "borderPadding": [3,3,3,3],
+            "commands": [
+                [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
+            ]
+        }],
+        ["endnote", {
+            "colWidths": ["30mm", null],
+            "commands": [
+                [VALIGN, [0, 0], [-1, -1], TOP],
+                [TOPPADDING, [0, 0], [-1, -1], 0],
+                [BOTTOMPADDING, [0, 0], [-1, -1], 10],
+                [RIGHTPADDING, [0, 0], [1, -1], 0]
+            ]
+        }],
+        ["red", {
+            "parent": "normal",
+            "textColor": "red"
+        }],
+        ["orange", {
+            "parent": "normal",
+            "textColor": "orange"
+        }],
+        ["green", {
+            "parent": "normal",
+            "textColor": "green"
+        }],
+        ["white", {
+            "parent": "normal",
+            "textColor": "black"
+        }],
+        ["mono", {
+            "parent": "normal",
+            "fontName" : "stdMono"
+        }],
+        ["augustab", {
+            "parent": "normal",
+            "fontName" : "AugustaB"
+        }],
+        ["times", {
+            "parent": "normal",
+            "fontName" : "stdTimes"
+        }],
+        ["simb", {
+            "parent": "normal",
+            "fontName" : "SimulacreS"
+        }],
+        ["runic", {
+            "parent": "normal",
+            "fontName" : "Runic"
+        }],
+        ["right", {
+            "parent": "bodytext",
+            "alignment": "right"
+        }],
+        ["centered", {
+            "parent": "bodytext",
+            "alignment": "center"
+        }],
+        ["footer", {
+              "parent": "normal",
+              "alignment": "TA_LEFT",
+              "fontSize": 60%,
+            "leftIndent": 77,
+            "rightIndent": 0
+        }],
+        ["header", {
+              "parent": "normal",
+              "alignment": "TA_LEFT",
+              "fontSize": 100%,
+            "rightIndent": 0
+        }]
+    ]
+}
+

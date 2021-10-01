@@ -1,0 +1,238 @@
+.. _simulacres_v7:
+
+.. To compile (minimal to get basicd100 layout):
+..  $ rst2pdf this_filename.txt \
+..      -s sim_styles.txt \
+..      -o pdf/this_filename.pdf
+..
+.. With usual options:
+..  $ rst2pdf this_filename.txt \
+..      -s sim_styles.txt \
+..      -e preprocess \
+..      --use-floating-images \
+..      --real-footnotes \
+..      -o pdf/this_filename.pdf
+..
+
+.. |ldash| unicode:: U+2014
+.. |bar| unicode:: U+007C
+.. |tel| unicode:: U+2121
+.. |stel| unicode:: U+2706
+.. |fax| unicode:: U+1F5B7
+.. |mail| unicode:: U+1F4E7
+.. |mdash| unicode:: U+2014
+.. |obel1| unicode:: U+2020
+.. |obel2| unicode:: U+2021
+.. |quad| unicode:: U+2003
+.. |tab| unicode:: U+0009
+.. |space| unicode:: U+0020
+    :trim:
+.. |nbsp| unicode:: U+00A0
+    :trim:
+.. |s| unicode:: U+00A0
+    :trim:
+
+.. arrows
+.. |<-| unicode:: U+2190
+.. |->| unicode:: U+2192
+.. |<->| unicode:: U+2194
+.. |</>| unicode:: U+21AE
+.. |=>| unicode:: U+21D2
+.. |<=| unicode:: U+21D0
+.. |<=>| unicode:: U+21D2
+.. |~| unicode:: U+223C
+.. |/~| unicode:: U+2241
+.. |~~| unicode:: U+2248
+.. |/=| unicode:: U+2260
+.. |...| unicode:: U+2026
+.. comparisons
+.. |lt| replace:: <
+.. |gt| replace:: >
+.. |le| unicode:: U+2264
+.. |ge| unicode:: U+2265
+
+.. roles from classes (must be defined in styles)
+.. role:: augustab
+.. role:: simb
+.. role:: red
+
+.. Simulacres symbols
+.. |corps| replace:: :simb:`a`
+.. |instinct| replace:: :simb:`z`
+.. |coeur| replace:: :simb:`e`
+.. |esprit| replace:: :simb:`r`
+.. |action| replace:: :simb:`s`
+.. |perception| replace:: :simb:`q`
+.. |desir| replace:: :simb:`d`
+.. |resistance| replace:: :simb:`i`
+.. |humain| replace:: :simb:`v`
+.. |animal| replace:: :simb:`c`
+.. |vegetal| replace:: :simb:`x`
+.. |mineral| replace:: :simb:`w`
+.. |mecanique| replace:: :simb:`b`
+.. |neant| replace:: :simb:`n`
+.. |puissance| replace:: :simb:`t`
+.. |precision| replace:: :simb:`u`
+.. |rapidite| replace:: :simb:`y`
+.. |1| replace:: :simb:`1`
+.. |2| replace:: :simb:`2`
+.. |3| replace:: :simb:`3`
+.. |4| replace:: :simb:`4`
+.. |5| replace:: :simb:`5`
+.. |6| replace:: :simb:`6`
+.. |b1| replace:: :simb:`“`
+.. |b2| replace:: :simb:`”`
+.. |b3| replace:: :simb:`‘`
+.. |b4| replace:: :simb:`’`
+.. |b5| replace:: :simb:`÷`
+.. |b6| replace:: :simb:`◊`
+
+.. |simnt| image:: images/sim_logo_notxt.png
+     :height: 3ex
+.. |simdie| image:: images/sim_dice.png  
+     :width: 160px
+
+.. footer::
+ 
+ .. class:: simfooter
+
+  +--------------------------------+------------------------------+
+  | .. image:: images/sim_dice.png | .. class:: right             |
+  |    :width: 160px               |                              |
+  |                                |   |simnt| |s| |s| |s|        |
+  |                                |   **###Page###/###Total###** |
+  +--------------------------------+------------------------------+
+
+.. image:: images/simulacres_logo_big.png
+    :width: 2000px
+    :align: center
+
+===
+|s|
+===
+
+.. =============================================
+.. :red:`Simulacres, le Jeu de Rôle Élémentaire`
+.. =============================================
+
+.. class:: center 
+
+ .. class:: red
+
+  **Simulacres est un jeu de rôle généraliste, contenant tout ce qui est
+  nécessaire pour faire jouer dans n’importe quel univers. Nous vous proposons
+  ici le corpus de règles publiés dans le hors-série 11 de Casus Belli, nommé
+  SangDragon.  Si vous désirez découvrir l’univers de SangDragon et une
+  campagne de jeu, il vous faudra vous procurer ce hors-série.**
+
+.. image:: images/L.png
+    :height: 10ex
+    :align: left
+
+es règles de SangDragon (qui sont les mêmes que celles de Simulacres) sont
+présentées dans les chapitres  suivants. Nous avons pris comme postulat que les
+joueurs utiliseraient les règles que nous appelons « de campagne ». C’est-àdire
+des règles de difficulté moyenne, légèrement plus compliquées que les règles de
+base destinées aux débutants. Mais vous pouvez tout à fait jouer avec les
+règles de base, ou les règles de campagne, tout est prévu pour cela.
+Néanmoins, afin de ne pas alourdir chaque nouvelle règle, en précisant à chaque
+fois dans quel cas elle s’emploie, nous supposerons que nous restons dans le
+cadre des règles de campagne.  Ceux qui veulent être guidés, avec des règles
+plus simples, auraient avantage à se procurer Simulacres, ainsi d’ailleurs que
+ceux qui  désirent des règles plus complexes (comme la localisation des points
+de vie, les poursuites, les pouvoirs psychiques, etc.).  C’est néanmoins pour
+vous laisser le choix du degré de complexité des règles que nous avons suivi la
+même progression de règles que pour Simulacres : d’abord savoir comment
+fonctionne le personnage et comment le créer avec les règles de base ; puis la
+découverte des mécanismes du jeu (p. 10) ; et enfin comment effectivement créer
+un personnage pour le monde de SangDragon, avec les règles de campagne, et
+toutes les adaptations nécessaires (p. 16).  Les règles de magie (p. 22)
+n’auront à être connues que du meneur de jeu et des joueurs dont le personnage
+est magicien.
+
+Description et création
+=======================
+
+La première chose que doit faire un joueur avant de commencer une partie de jeu
+de rôle, c’est de choisir le personnage qu’il va incarner. S’il est débutant,
+indécis ou pressé, nous lui conseillons de choisir un personnage prétiré,
+c’est-à-dire un personnage tout fait. Il y en a six de prévus, que vous
+trouverez en page 71, dont vous pouvez vous inspirer et qu’il est possible de
+photocopier ou même de découper.
+
+Un paradoxe de la création de personnage dans le jeu de rôle est qu’il faut
+souvent un peu savoir comment «fonctionnent » les règles pour savoir si son
+personnage correspond bien à ce que l’on veut, mais que l’on ne peut bien
+saisir le mécanisme des règles qu’après avoir créé un personnage. C’est un peu
+le problème de l’œuf et de la poule. Mais ne paniquez pas, tout cela n’est pas
+si compliqué.
+
+Le plus simple, c’est de lire la description des caractéristiques d’un
+personnage avec une feuille vierge (page 9) devant soi, ou avec un des prétirés
+(page 71).  Vous pourrez créer un personnage au fur et à mesure, puis passer
+aux mécanismes du jeu (page 10 et suivantes) pour savoir comment va «
+fonctionner » votre personnage.
+
+Les Caractéristiques
+====================
+
+Elles sont divisées en plusieurs catégories. Voici, pour chacune, comment
+remplir la feuille de personnage, lorsque vous en créez un.
+
+.. raw:: pdf
+
+    PageBreak twoColumn
+
+Composantes
+-----------
+
+Ce sont les matériaux qui composent les individus, la base même de ce qu’ils
+sont. Un personnage est composé (symboliquement) du Corps, des Instincts, du
+Cœur et de l’Esprit.
+
+.. image:: images/corps.png
+    :height: 6.6ex
+    :align: left
+
+**Le Corps** sert à résoudre toutes les situations physiques (courir, regarder,
+lutter, danser, écouter, etc.). Il recouvre diverses capacités physiques comme
+la force, l’agilité, l’endurance.
+
+.. image:: images/instinct.png
+    :height: 6.6ex
+    :align: left
+
+**Les Instincts** regroupent toutes les forces et les faiblesses cachées et
+inconscientes de l’individu.  C’est par eux que s’expriment le sixième sens,
+l’intuition, le côté animal du personnage ; mais aussi le fait de se laisser
+dominer par ses pulsions. Une personne instinctive pourra sentir des présences,
+se rattraper de justesse lors d’une chute, etc.
+
+.. image:: images/coeur.png
+    :height: 6.6ex
+    :align: left
+
+**Le Cœur** est le domaine des sentiments (aimer, se faire aimer, « comprendre
+», ressentir, influencer, convaincre par les sentiments, etc.). Quelqu’un qui a
+une forte valeur en Cœur peut non seulement mieux convaincre, mais aussi mieux
+résister aux influences extérieures, alors qu’un personnage avec une faible
+valeur sera plus velléitaire (incapable de s’en tenir à une décision prise).
+
+.. image:: images/esprit.png
+    :height: 6.6ex
+    :align: left
+
+**L’Esprit** gouverne la réflexion (calculer, analyser, raisonner, prévoir,
+persuader par la raison, etc.) mais aussi l’invention, l’imagination.
+
+.. sidebar:: *Création du personnage*
+
+   Les valeurs des Composantes varient de 3 (faible) à 6 (fort), 4 et 5 étant
+   des valeurs moyennes. Répartissez un total de 18 points entre vos quatre
+   Composantes.  Exemple : Corps |corps| 5, Instincts |instinct| 6, Cœur
+   |coeur| 4, Esprit |esprit| 3 ; un tel personnage est très instinctif,
+   privilégiant ce qui est physique, moyennement amical et pas du tout
+   réfléchi. Une vraie tête brûlée.
+
+
+
