@@ -500,3 +500,4 @@ Paradoxalement, cette méthode de création n’est pas plus compliquée. Elle
 permet de mieux visualiser son personnage (ce qui est souvent utile aux
 débutants) et de faire des différences entre des personnages qui, globalement,
 auraient les mêmes caractéristiques.
+
