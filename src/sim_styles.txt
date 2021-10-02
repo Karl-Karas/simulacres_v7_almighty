@@ -98,7 +98,8 @@
         }],
         ["heading1" , {
               "fontSize": 30,
-              "fontName" : "stdTitle"
+              "fontName" : "stdTitle",
+              "textColor": "red"
         }],
         ["heading2" , {
               "fontSize": 22,
@@ -110,6 +111,10 @@
         }],
         ["heading4" , {
               "fontSize": 14,
+              "fontName" : "stdBold"
+        }],
+        ["heading5" , {
+              "fontSize": 12,
               "fontName" : "stdBold"
         }],
         ["left", {
@@ -147,11 +152,11 @@
             "bulletIndent":0
         }],
         ["ccfooter", {
-              "parent": "table",
-              "fontSize": 60%,
-              "spaceBefore": 0,
-              "spaceAfter": "0",
-              "alignment": "TA_LEFT",
+            "parent": "table",
+            "fontSize": 60%,
+            "spaceBefore": 0,
+            "spaceAfter": "0",
+            "alignment": "TA_LEFT",
             "leftIndent": 0,
             "rightIndent": 0,
             "hyphenation": false,
@@ -163,11 +168,11 @@
             ]
         }],
         ["simfooter", {
-              "parent": "table",
-              "fontSize": 80%,
-              "spaceBefore": 0,
-              "spaceAfter": 0,
-              "alignment": "TA_LEFT",
+            "parent": "table",
+            "fontSize": 80%,
+            "spaceBefore": 0,
+            "spaceAfter": 0,
+            "alignment": "TA_LEFT",
             "leftIndent": 0,
             "rightIndent": 0,
             "hyphenation": false,
@@ -191,8 +196,8 @@
         ["table-title", {
             "parent": "heading3",
             "keepWithNext": "false",
-              "spaceBefore": 2,
-              "spaceAfter": 1,
+            "spaceBefore": 2,
+            "spaceAfter": 1,
             "alignment": "TA_LEFT"
         }],
         ["table-heading", {
@@ -206,8 +211,15 @@
         ["table-body", {
             "parent": "normal"
         }],
+        ["sidebar-title", {
+            "parent": "heading4"
+        }],
+        ["sidebar-subtitle", {
+            "parent": "heading5"
+        }],
         ["sidebar", {
             "parent": "normal",
+            "alignment":"TA_RIGHT",
             "float": "none",
             "width": 100%,
             "spaceBefore": 12,

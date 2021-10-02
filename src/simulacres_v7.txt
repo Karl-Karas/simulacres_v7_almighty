@@ -14,102 +14,11 @@
 ..      -o pdf/this_filename.pdf
 ..
 
-.. |ldash| unicode:: U+2014
-.. |bar| unicode:: U+007C
-.. |tel| unicode:: U+2121
-.. |stel| unicode:: U+2706
-.. |fax| unicode:: U+1F5B7
-.. |mail| unicode:: U+1F4E7
-.. |mdash| unicode:: U+2014
-.. |obel1| unicode:: U+2020
-.. |obel2| unicode:: U+2021
-.. |quad| unicode:: U+2003
-.. |tab| unicode:: U+0009
-.. |space| unicode:: U+0020
-    :trim:
-.. |nbsp| unicode:: U+00A0
-    :trim:
-.. |s| unicode:: U+00A0
-    :trim:
-
-.. arrows
-.. |<-| unicode:: U+2190
-.. |->| unicode:: U+2192
-.. |<->| unicode:: U+2194
-.. |</>| unicode:: U+21AE
-.. |=>| unicode:: U+21D2
-.. |<=| unicode:: U+21D0
-.. |<=>| unicode:: U+21D2
-.. |~| unicode:: U+223C
-.. |/~| unicode:: U+2241
-.. |~~| unicode:: U+2248
-.. |/=| unicode:: U+2260
-.. |...| unicode:: U+2026
-.. comparisons
-.. |lt| replace:: <
-.. |gt| replace:: >
-.. |le| unicode:: U+2264
-.. |ge| unicode:: U+2265
-
-.. roles from classes (must be defined in styles)
-.. role:: augustab
-.. role:: simb
-.. role:: red
-
-.. Simulacres symbols
-.. |corps| replace:: :simb:`a`
-.. |instinct| replace:: :simb:`z`
-.. |coeur| replace:: :simb:`e`
-.. |esprit| replace:: :simb:`r`
-.. |action| replace:: :simb:`s`
-.. |perception| replace:: :simb:`q`
-.. |desir| replace:: :simb:`d`
-.. |resistance| replace:: :simb:`i`
-.. |humain| replace:: :simb:`v`
-.. |animal| replace:: :simb:`c`
-.. |vegetal| replace:: :simb:`x`
-.. |mineral| replace:: :simb:`w`
-.. |mecanique| replace:: :simb:`b`
-.. |neant| replace:: :simb:`n`
-.. |puissance| replace:: :simb:`t`
-.. |precision| replace:: :simb:`u`
-.. |rapidite| replace:: :simb:`y`
-.. |1| replace:: :simb:`1`
-.. |2| replace:: :simb:`2`
-.. |3| replace:: :simb:`3`
-.. |4| replace:: :simb:`4`
-.. |5| replace:: :simb:`5`
-.. |6| replace:: :simb:`6`
-.. |b1| replace:: :simb:`“`
-.. |b2| replace:: :simb:`”`
-.. |b3| replace:: :simb:`‘`
-.. |b4| replace:: :simb:`’`
-.. |b5| replace:: :simb:`÷`
-.. |b6| replace:: :simb:`◊`
-
-.. |simnt| image:: images/sim_logo_notxt.png
-     :height: 3ex
-.. |simdie| image:: images/sim_dice.png  
-     :width: 160px
-
-.. footer::
- 
- .. class:: simfooter
-
-  +--------------------------------+------------------------------+
-  | .. image:: images/sim_dice.png | .. class:: right             |
-  |    :width: 160px               |                              |
-  |                                |   |simnt| |s| |s| |s|        |
-  |                                |   **###Page###/###Total###** |
-  +--------------------------------+------------------------------+
+.. include:: common_subs.txt
 
 .. image:: images/simulacres_logo_big.png
     :width: 2000px
     :align: center
-
-===
-|s|
-===
 
 .. =============================================
 .. :red:`Simulacres, le Jeu de Rôle Élémentaire`

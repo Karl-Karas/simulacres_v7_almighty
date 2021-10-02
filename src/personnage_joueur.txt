@@ -25,15 +25,15 @@ personnage avec une feuille vierge (page 9) devant soi, ou avec un des prétiré
 aux mécanismes du jeu (page 10 et suivantes) pour savoir comment va «
 fonctionner » votre personnage.
 
+.. raw:: pdf
+
+    PageBreak twoColumn
+
 Les Caractéristiques
 --------------------
 
 Elles sont divisées en plusieurs catégories. Voici, pour chacune, comment
 remplir la feuille de personnage, lorsque vous en créez un.
-
-.. raw:: pdf
-
-    PageBreak twoColumn
 
 Composantes
 ^^^^^^^^^^^
