@@ -147,3 +147,176 @@ instincts.
    actif, pas très perspicace, qui ne sait pas trop encaisser les coups durs,
    mais qui sait y réagir efficacement.
 
+Règnes
+^^^^^^
+
+Enfin, on n’agit pas dans l’absolu. Chaque personne a des affinités
+particulières vis-à-vis du milieu extérieur.  Ainsi, même si on utilise ses
+facultés de perception, certains individus sont plus à l’aise pour suivre les
+traces d’un animal dans la forêt, alors que d’autres sauront plus facilement
+déceler un passage secret dans une bâtisse. Dans le jeu, ces affinités sont
+appelées les Règnes, et sont au nombre de cinq : Minéral |mineral|, Végétal
+|vegetal|, Animal |animal|, Humain |humain|, Mécanique |mecanique|.
+
+.. image:: images/mineral.png
+    :height: 6.6ex
+    :align: left
+
+**Minéral.** Ce Règne représente toute la nature non vivante. C’est-à-dire les
+rochers, les pierres, mais aussi l’eau (océans, lacs, rivières) ou l’air (le
+vent, le ciel). Ainsi, lorsque l’on veut faire le point en mer, ou connaître la
+météo, on utilise le Règne Minéral.
+
+.. image:: images/vegetal.png
+    :height: 6.6ex
+    :align: left
+
+**Végétal.** Ce Règne représente tout ce qui est vivant et (a priori) sans
+conscience. On l’utilise avec les plantes, les arbres, les lichens.
+
+.. image:: images/animal.png
+    :height: 6.6ex
+    :align: left
+
+**Animal.** Ce Règne sert à chaque fois que l’on a des interactions avec des
+créatures vivantes qui ont un comportement instinctif (que l’on nomme animal)
+plutôt qu’intellectuel (comme les humains). C’est pourquoi il arrive que ce
+Règne soit utilisé dans des circonstances particulières avec des humains : si
+un Indien essaye d’appeler son animal totem, si un officiant vaudou se livre à
+son dieu loa, ils font appel à la personnalité animale qu’ils possèdent en eux.
+
+.. image:: images/humain.png
+    :height: 6.6ex
+    :align: left
+
+**Humain.** Ce Règne est un des plus importants car il est utilisé de deux
+façons bien différentes. Dans un premier temps, comme tous les autres Règnes,
+on l’utilise dans les interactions avec d’autres humains (séduc- tion,
+psychologie...). Dans un deuxième temps, il sert dès qu’on utilise ses propres
+capacités (courir, résoudre une énigme...). En fait, le jeu part du principe
+philosophique grec |s| : connais-toi toi-même pour connaître les autres. Il
+peut arriver que l’on ait des interactions avec des créatures qui ne soient ni
+animales (elles réfléchissent) ni humaines (elles ont des modes de pensée trop
+étranges pour nous |s| ; comme des extraterrestres, des dieux non
+anthropomorphes...) auquel cas aucun de ces deux Règnes (Animal et Humain) ne
+s’applique.
+
+.. image:: images/mecanique.png
+    :height: 6.6ex
+    :align: left
+
+**Mécanique.** Ce Règne représente tout ce qui est utilisé comme outil ou
+instrument, au sens le plus large du terme. Ainsi l’os, qui pourrait être
+considéré comme Minéral (en voie de fossilisation) est considéré comme un outil
+dès que l’homme des cavernes l’utilise pour la chasse ou la guerre (voir 2001
+l’odyssée de l’Espace ). Évidemment, les voitures, les armes à feu, les
+presse-purées, les ordinateurs, sont tous du domaine Mécanique. Mais cela va
+plus loin, car on considérera aussi que les lois de la physique et des
+mathématiques sont des « |s| outils |s| » pour comprendre l’univers. Ainsi, si
+un psychiatre veut inventer une nouvelle méthode psychiatrique, il utilisera le
+Règne Humain, car son domaine d’application est l’esprit humain ; mais un
+physicien voulant découvrir de nouvelles lois des interactions interatomes
+utilisera le Règne Mécanique (même si c’est avec son cerveau qu’il réfléchit).
+
+.. sidebar:: *Création du personnage*
+
+   Les valeurs des Règnes varient de 0 (faible) à 2 (fort), 1 étant la valeur
+   normale. L’attribution des points à répartir, ainsi qu’un exemple de
+   création, sont donnés un peu plus loin, après les Énergies.
+
+Énergies de base
+^^^^^^^^^^^^^^^^
+
+Chaque individu possède en lui des possibilités de dépassement qu’il est
+capable de révéler dans des circonstances extrêmes. Lors d’un sursaut de
+volonté, ou en se concentrant, il peut libérer ces capacités pour changer le
+cours du destin. Cette capacité particulière s’appelle l’Énergie. Attention,
+l’utilisation des Énergies engendre une dépense physique ou psychique
+(expliquée dans les mécanismes du jeu, voir page 10 et suivantes) et il vaut
+mieux les considérer comme des « |s| jokers |s| » (qui typent un peu plus les
+personnages) que de compter tout le temps sur elles.
+
+.. FIXME : rst2pdf triggers a BUG (with the next floating image) if this
+..         pagebreak is not there. :-(
+
+.. raw:: pdf
+
+    PageBreak
+
+Il y a trois Énergies de base |s| :
+
+.. image:: images/puissance.png
+    :height: 6.6ex
+    :align: left
+
+**La Puissance** permet d’augmenter les chances de réussite et les résultats
+d’une action. Cette Énergie n’est utilisable que quand une certaine « |s| force
+|s| » est applicable. Ainsi, on peut ajouter de la Puissance à un coup de
+poing, à une tentative de séduction, au dépouillement d’un volumineux dossier
+d’enquête.  Mais on ne peut donner de la Puissance à un coup de feu (c’est le
+pistolet qui tire), à la conduite d’une voiture, etc.
+
+.. image:: images/rapidite.png
+    :height: 6.6ex
+    :align: left
+
+**La Rapidité** permet d’augmenter les chances de réussite et les résultats
+d’une action. Évidemment, cette Énergie n’est utilisable que dans des
+circonstances où la rapidité joue un rôle. C’est le cas du combat au contact,
+des poursuites où les réflexes jouent, si une action est faite dans la
+précipitation...
+
+.. image:: images/precision.png
+    :height: 6.6ex
+    :align: left
+
+**La Précision** permet aussi d’augmenter les chances de réussite et les
+résultats d’une action.  Évidemment, cette Énergie n’est utilisable que dans
+des circonstances où la précision joue un rôle, comme viser une cible, savoir
+trouver le mot juste. La Précision peut en fait servir quasiment tout le temps,
+sauf dans les circonstances passives (comme résister à une maladie, à un
+hypnotiseur) où seule la Puissance peut servir.
+
+.. sidebar:: *Création du personnage*
+
+   À l’instar des Règnes, les Énergies ont une valeur de 0 (moyenne), 1
+   (supérieure) ou 2 (forte). Comme les Énergies sont des « |s| bonus |s| » par
+   rapport à la moyenne, une valeur de 1 n’est pas « |s| normale |s| » (comme
+   pour les Règnes) mais déjà considérée comme supérieure. En effet, le Règne
+   est utilisé tout le temps alors que l’Énergie ne pourra servir que de temps
+   en temps.
+
+   L’attribution des points à répartir, ainsi qu’un exemple de création, sont
+   donnés un peu plus loin.
+
+Autres Énergies
+^^^^^^^^^^^^^^^
+
+Il existe d’autres Énergies mais elles dépendent du contexte, de l’univers de
+jeu que vous avez choisi. Cela peut être de l’Énergie magique, psionique, etc.
+A priori, vous n’avez pas à en créer vous-même, mais votre personnage peut être
+amené à utiliser cette Énergie, auquel cas vous devrez à chaque fois consulter
+les règles spécifiques. Notez simplement que votre personnage ne pourra avoir
+ces capacités spéciales que s’il a mis des points dans cette Énergie. Ainsi,
+par exemple, si vous jouez dans un univers magique où les sorciers sont une
+réalité, il existera une Énergie de sorcellerie. Si votre personnage a des
+points dans cette Énergie, il pourra être ou devenir sorcier |s| ; sinon, la
+sorcellerie lui sera totalement inaccessible.
+
+.. sidebar:: *Création du personnage*
+
+   En tout, pour l’ensemble des Règnes et Énergies, vous disposez d’un total de
+   8 points. Comme il y a 5 Règnes et 3 Énergies de base, cela vous permet de
+   mettre 1 point partout. Si vous choisissez d’avoir un personnage moins
+   équilibré, le minimum dans un Règne ou une Énergie est de 0, le maximum de
+   2.  S’il existe une Énergie supplémentaire dans un univers de jeu (comme la
+   magie), le total des points n’augmente pas et est toujours de 8. De plus,
+   cette Énergie spéciale ne peut pas être montée à 2 (seulement à 0 ou à 1).
+
+   Exemple |s| : Minéral |mineral| 0, Végétal |vegetal| 0, Animal |animal| 1,
+   Humain |humain| 2, Mécanique |mecanique| 2, Puissance |puissance| 2,
+   Rapidité |rapidite| 1, Précision |precision| 0 |s| ; ce personnage ne
+   connaît pas grand-chose de la nature en général, à peine les animaux, par
+   contre il a des affinités avec les humains et leurs outils. De plus, il est
+   très costaud, et plus rapide que précis.
+
