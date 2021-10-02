@@ -147,6 +147,8 @@ instincts.
    actif, pas très perspicace, qui ne sait pas trop encaisser les coups durs,
    mais qui sait y réagir efficacement.
 
+:red:`TODO IMAGE MATRICE 4X4`
+
 Règnes
 ^^^^^^
 
@@ -224,6 +226,8 @@ utilisera le Règne Mécanique (même si c’est avec son cerveau qu’il réfl�
    normale. L’attribution des points à répartir, ainsi qu’un exemple de
    création, sont donnés un peu plus loin, après les Énergies.
 
+:red:`TODO IMAGE`
+
 Énergies de base
 ^^^^^^^^^^^^^^^^
 
@@ -289,6 +293,8 @@ hypnotiseur) où seule la Puissance peut servir.
    L’attribution des points à répartir, ainsi qu’un exemple de création, sont
    donnés un peu plus loin.
 
+:red:`TODO IMAGE`
+
 Autres Énergies
 ^^^^^^^^^^^^^^^
 
@@ -320,3 +326,177 @@ sorcellerie lui sera totalement inaccessible.
    contre il a des affinités avec les humains et leurs outils. De plus, il est
    très costaud, et plus rapide que précis.
 
+L’état du personnage
+--------------------
+
+Trois compteurs distincts indiquent quel est l’état actuel de votre personnage.
+En effet, celui-ci va vivre des aventures mouvementées et trépidantes, pleines
+de danger. Il est bien possible qu’il soit blessé, essoufflé, choqué (pire, il
+peut mourir). Pour savoir où il en est, on utilise trois compteurs de « |s|
+points |s| » |s| : les points de vie, les points de souffle, et les points
+d’équilibre psychique.
+
+Points de vie
+^^^^^^^^^^^^^
+
+Les **points de vie** (en abrégé : PV) indiquent la quantité de dégâts
+physiques que peut subir le personnage, avant d’être blessé ou de mourir. Le
+total maximum de ses points de vie dépend de sa morphologie. Pour la connaître,
+additionnez ses scores en Corps |corps| et Résistance |resistance| |s| :
+
+- De 1 à 5, sa morphologie est faible. Il a 4 points de vie.
+- De 6 à 8, sa morphologie est moyenne. Il a 5 points de vie.
+- De 9 à 14, sa morphologie forte. Il a 6 points de vie.
+
+Si à un moment votre personnage tombe à 0 point de vie, il est mort, la partie
+est terminée pour vous. S’il est blessé, et que sa blessure a été soignée, il
+récupérera 1 point de vie par jour. Dans les univers magiques, il existe des
+potions qui aident à guérir plus vite, de même que des soins dans un hôpital
+ultramoderne peuvent accélérer cette récupération. Quelle que soit la façon
+dont les points de vie sont récupérés, leur nombre ne peut dépasser le maximum
+indiqué par la morphologie.
+
+Points de souffle
+^^^^^^^^^^^^^^^^^
+
+Tous les personnages ont 4 **points de souffle** (en abrégé : PS). Ces points
+peuvent être perdus quand ils reçoivent des coups d’objets contondants
+(matraque, coup de poing...) ou quand ils font des efforts (en général quand on
+utilise ses Énergies, la manière dont cela se déroule est expliquée dans les
+mécanismes de jeu, pages 10 et suivantes). Si le personnage tombe à 0 point de
+souffle, il perd conscience. Les points de souffle se récupèrent naturellement
+au rythme de 1 point par heure de repos. On ne peut dépasser le maximum de ses
+points de souffle.
+
+Points d’équilibre psychique
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Tous les personnages ont 4 **points d’équilibre psychique** (en abrégé : EP).
+Ces points peuvent être perdus quand ils subissent des chocs psychologiques
+(terreur, perte d’un être aimé...) ou s’ils se concentrent pour augmenter leurs
+chances de réussite (en général quand on uti- lise les Énergies, la manière
+dont cela se déroule est expliquée dans les mécanismes de jeu, pages 10 et
+suivantes). Si le personnage arrive à 0 point d’équilibre psychique, il devient
+fou ou tombe en état de choc. Les points d’équilibre psychique se récupèrent
+naturellement au rythme de 1 point par semaine de calme. On ne peut dépasser le
+maximum de ses points d’équilibre psychique.
+
+Résistance magique
+^^^^^^^^^^^^^^^^^^
+
+Cette résistance sert à ne pas succomber à certains sortilèges (voir comment
+l’utiliser dans les règles de magie, p. 22). Pour la calculer, faites la somme
+Esprit |esprit| + Résistance |resistance| + Humain |humain| + Art magique (Art
+magique est un talent, qui rend la somme précédente nulle si vous ne le
+possédez pas). Si cette valeur est supérieure à 6, notez-la, sinon indiquez 6
+dans l’emplacement réser- vé sur la feuille de personnage. Attention, les Elfes
+et les Nains diminuent cette valeur de 1 point.
+
+La vie du personnage
+--------------------
+
+Un personnage n’est pas qu’un assemblage de chiffres et de caractéristiques. Il
+est aussi défini par ce qu’il a vécu, ce qu’il sait faire, et par ses
+possessions.
+
+Le passé
+^^^^^^^^
+
+Ici, vous êtes tout à fait libre de créer le passé que vous voulez à votre
+personnage, pourvu qu’il soit cohérent avec l’univers de jeu, et que votre
+meneur de jeu approuve vos choix. Évitez quand même les fils d’empereur cachés
+qui ont pour destin de régner sur l’univers. Votre but est de forger un destin
+à votre personnage durant le jeu, pas de décider à l’avance qu’il est un
+surhomme.
+
+Talents et métiers
+^^^^^^^^^^^^^^^^^^
+
+Votre personnage a le droit à un métier, deux talents et deux hobbies.
+
+- **Un métier** est un ensemble de compétences qui permettent à votre
+  personnage de se sortir de toutes les situa- tions normales où ce métier peut
+  servir. Il donne également des bonus à vos chances de réussite. N’importe
+  quel type de métier connu du MJ peut être choisi, aussi bien ceux qui sont
+  classiques (médecin, soldat, pilote, caissière de supermarché...) que des
+  vraiment « exotiques » (fils d’industriel, gourou, agitateur politique...).
+
+- **Un talent** est une compétence qui permet à votre personnage de se sortir
+  de toutes les situations normales où ce talent peut servir. Il n’est pas
+  nécessaire de posséder un talent en rapport avec votre métier puisque
+  celui-ci les contient déjà. Ainsi, un talent de premiers soins est inutile
+  pour un médecin. Les talents peuvent recouvrir des capacités bien différentes
+  (prestidigitation, cuisine, armes à feu...). Il existe une liste de talents
+  dans les règles de campagne, p. 18-21.
+
+- **Un hobby** est un domaine où votre personnage possède quelques
+  connaissances et quelques compétences, en général au niveau amateur. Un hobby
+  offre moins de pratique et de connaissance qu’un talent. Il est là pour
+  donner un peu plus de « relief » à votre personnage.  Exemples de hobbies :
+  philatélie, pêche à la ligne, jeux de rôle, fan de séries télés... Vous
+  pouvez échanger vos deux hobbies contre un talent supplémentaire. Ou au
+  contraire transformer un de vos deux talents en deux hobbies supplémentaires.
+
+Points d’aventure
+^^^^^^^^^^^^^^^^^
+
+Ne vous préoccupez pas pour l’instant de cette case.  Elle sert pour les règles
+de Campagne (p. 18).
+
+----
+
+Force et Agilité ?
+------------------
+
+Les joueurs habitués à d’autres jeux de rôle sont souvent surpris par la façon
+de décrire les personnages dans Simulacres. En effet, il est plus courant de
+trouver des caractéristiques plus descriptives (et plus nombreuses) comme
+Force, Dextérité, Intelligence, Volonté, que celles plus générales comme Corps
+ou Cœur. C’est en effet souvent plus facile à comprendre au premier abord, mais
+il ne faut pas oublier que Simulacres est destiné à faire jouer dans n’importe
+quel univers ou situation, et qu’il doit donc être plus générique et moins
+spécifique. En fait, la capacité de combiner Composantes et Moyens donne déjà
+de nombreuses possibilités, et c’est sans compter l’interprétation que peuvent
+apporter les Énergies.
+
+Ainsi, qu’un personnage veuille faire un bras de fer ou se saisir d’un objet
+avant un adversaire, on se servira du Corps, de l’Action et du Règne Humain.
+Mais celui qui aura plus de Puissance augmentera ses chances au bras de fer,
+alors que celui qui aura le plus de Rapidité augmentera ses chances d’être le
+premier à saisir l’objet. Ses mécanismes s’appliquent de la même manière à des
+tâches intellectuelles (trier des renseignements, résoudre des équations, avoir
+la plus grande force de conviction...). Tout cela donnant e un nombre de
+combinaisons et de façons différentes d’utiliser ses capacités vraiment
+impressionnant. Ainsi, ce qui fait la différence entre un bagarreur et le
+champion du monde de boxe, qui pourront tous deux assommer n’importe quel
+quidam, ce sera leurs métiers et leurs Énergies.
+
+----
+
+Une autre méthode pour créer ses Composantes
+--------------------------------------------
+
+Sur la feuille de personnage, les cadres où l’on inscrit le score des
+Composantes comportent trois petites cases. Celles-ci servent si vous désirez
+créer vos personnages d’un façon plus imagée. Comment procéder |s| :
+
+Pour chaque Composante, la première case représente votre potentiel à votre
+naissance |s| ; la deuxième case est la façon dont elle a évolué au cours de
+votre enfance et votre adolescence, suite à votre éducation et votre milieu ;
+la troisième case représente vos propres efforts d’amélioration.  Si vous
+décidez que la valeur d’une case est forte, noircissez-la. Si vous décidez
+qu’elle est faible, laissez-la en blanc. Pour l’ensemble des quatre
+Composantes, vous devez noircir 6 cases, et en laisser 6 en blanc. Ensuite,
+calculez la valeur de chaque Composante en sachant qu’une case blanche vaut 1
+point, et qu’une case noire vaut 2 points.  Voyons, d’après l’exemple
+ci-contre, comment interpréter ce processus de création. Ce personnage a une
+valeur de Corps de 5 (2+1+2), qui lui vient d’une bonne constitution à la
+naissance, qu’il n’a pas vraiment travaillé durant son adolescence, mais qu’il
+a augmenté par la suite par des exercices et une bonne hygiène de vie.
+
+:red:`TODO IMAGE`
+
+Paradoxalement, cette méthode de création n’est pas plus compliquée. Elle
+permet de mieux visualiser son personnage (ce qui est souvent utile aux
+débutants) et de faire des différences entre des personnages qui, globalement,
+auraient les mêmes caractéristiques.
