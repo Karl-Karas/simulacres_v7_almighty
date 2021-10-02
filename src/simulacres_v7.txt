@@ -1,17 +1,17 @@
 .. _simulacres_v7:
 
-.. To compile (minimal to get basicd100 layout):
-..  $ rst2pdf this_filename.txt \
+.. To compile (minimal to get Simulacres layout):
+..  $ rst2pdf simulacres_v7.txt \
 ..      -s sim_styles.txt \
-..      -o pdf/this_filename.pdf
+..      -o simulacres_v7.pdf
 ..
-.. With usual options:
-..  $ rst2pdf this_filename.txt \
+.. With more options:
+..  $ rst2pdf simulacres_v7.txt \
 ..      -s sim_styles.txt \
 ..      -e preprocess \
 ..      --use-floating-images \
 ..      --real-footnotes \
-..      -o pdf/this_filename.pdf
+..      -o simulacres_v7.pdf
 ..
 
 .. include:: common_subs.txt

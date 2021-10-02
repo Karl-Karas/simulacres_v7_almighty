@@ -81,10 +81,10 @@ persuader par la raison, etc.) mais aussi l’invention, l’imagination.
 
    Les valeurs des Composantes varient de 3 (faible) à 6 (fort), 4 et 5 étant
    des valeurs moyennes. Répartissez un total de 18 points entre vos quatre
-   Composantes.  Exemple : Corps |corps| 5, Instincts |instinct| 6, Cœur
-   |coeur| 4, Esprit |esprit| 3 ; un tel personnage est très instinctif,
-   privilégiant ce qui est physique, moyennement amical et pas du tout
-   réfléchi. Une vraie tête brûlée.
+   Composantes.
+   Exemple : Corps |corps| 5, Instincts |instinct| 6, Cœur |coeur| 4, Esprit
+   |esprit| 3 ; un tel personnage est très instinctif, privilégiant ce qui est
+   physique, moyennement amical et pas du tout réfléchi. Une vraie tête brûlée.
 
 Moyens
 ^^^^^^
